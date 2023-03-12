@@ -1,6 +1,5 @@
 import math
-#Name:- Sourav Ghosh, Roll:- 302211102001, Student of JADAVPUR UNIVERSITY (U-0575), IEE. # Google internship 2022 August Program.
-print("#Name:- Sourav Ghosh, Roll:- 302211102001, Student of JADAVPUR UNIVERSITY (U-0575), IEE. # Google internship 2022 August Program.  Simple Matrix")
+#Name:- Sourav Ghosh
 i = 1
 while i < 2:
     OP = ""
